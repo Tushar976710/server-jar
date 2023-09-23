@@ -1,0 +1,44 @@
+{
+  "customers": [
+    {
+      "fname": "tushar",
+      "address": "vaijapur",
+      "mobile": "9767754763",
+      "id": 4
+    },
+    {
+      "fname": "ganesh",
+      "address": "tembhi",
+      "mobile": "74575655",
+      "id": 5
+    }
+  ],
+  "orders": [
+    {
+      "jars": "5",
+      "date": "2023-02-05",
+      "userId": 2,
+      "id": 1
+    },
+    {
+      "jars": "2",
+      "date": "2023-05-02",
+      "userId": 4,
+      "id": 2
+    },
+    {
+      "jars": "5",
+      "date": "2023-09-22",
+      "userId": 5,
+      "id": 3
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123"
+    }
+  ]
+}
